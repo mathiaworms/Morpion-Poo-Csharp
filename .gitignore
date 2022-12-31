@@ -3,3 +3,5 @@ App/obj/App.csproj.nuget.dgspec.json
 App/obj/Debug/net6.0/App.GeneratedMSBuildEditorConfig.editorconfig
 App/obj/project.assets.json
 App/obj/project.nuget.cache
+[Bb]in/
+[Oo]bj/
